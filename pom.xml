@@ -20,7 +20,6 @@
       <groupId>com.training.saurabh</groupId>
       <artifactId>saurabh-jenkins</artifactId>
       <version>3.8.1</version>
-      <scope>test</scope>
     </dependency>
   </dependencies>
   <build>
