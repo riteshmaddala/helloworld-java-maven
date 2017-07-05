@@ -35,15 +35,15 @@
   
  <distributionManagement>
 	<repository>
-		<id>deployment</id>
-		<name>Internal Releases</name>
-		<url>http://35.154.48.174:8081/nexus/content/repositories/releases/</url>
+		<id>vodafone1</id>
+		<name>Vodafone Internal Releases</name>
+		<url>http://13.126.114.25:8081/repository/MavenRelease/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>deployment</id>
-		<name>Internal Releases</name>
-		<url>http://35.154.48.174:8081/nexus/content/repositories/snapshots/</url>
+		<id>vodafone1</id>
+		<name>Vodafone Internal Releases</name>
+		<url>http://13.126.114.25:8081/repository/MavenSnapshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
